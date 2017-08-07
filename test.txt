@@ -1,0 +1,186 @@
+    1  sudo apt update
+    2  sudo apt upgrade
+    3  sudo apt install vim
+    4  sudo apt install git
+    5  sudo apt update
+    6  sudo apt install slack
+    7  sudo systemctl start slack
+    8  sudo slack
+    9  slack
+   10  sudo apt install software center
+   11  sudo apt install vlc
+   12  sudo add-apt-repository ppa:otto-kesselgulasch/gimp
+   13  sudo apt update
+   14  sudo apt upgrade
+   15  ls
+   16  sudo ls
+   17  cd ..
+   18  ls
+   19  cd ..
+   20  ls
+   21  cd tmp
+   22  ls
+   23  cd mozilla_tsatuos0/
+   24  ls
+   25  dpkg -i google-chrome-stable_current_amd64.deb
+   26  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   27  reboot
+   28  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   29  cd ..
+   30  cd tmp
+   31  ls
+   32  cd ..
+   33  ls
+   34  cd tmp
+   35  ls
+   36  cd mozilla_tsatuos0/
+   37  ls
+   38  cd ..
+   39  cd mozilla_tsatuos0/
+   40  ls
+   41  cd ..
+   42  cd usr
+   43  ls
+   44  cd ..
+   45  cd home
+   46  ls
+   47  cd tsatuos/
+   48  ls
+   49  cd ダウンロード
+   50  ls
+   51  sudo dpkg -i google-chrome-stable_current_amd64.deb 
+   52  sudo 
+   53  ls
+   54  sudo apt remove google-chrome-stable 
+   55  sudo dpkg -i google-chrome-stable_current_amd64.deb 
+   56  sudo apt remove google-chrome-stable 
+   57  sudo wget http://ardownload.adobe.com/pub/adobe/reader/unix/9.x/9.5.5/enu/AdbeRdr9.5.5-1_i386linux_enu.deb
+   58  sudo dpkg -i AdbeRdr9.5.5-1_i386linux_enu.deb
+   59  sudo apt-get -f install
+   60  sudo apt install indicator-multiload
+   61  sudo add-apt-repository ppa:ubuntu-wine/ppa
+   62  sudo apt update
+   63  sudo gsettings set org.gnome.settings-daemon.plugins.keyboard active false
+   64  sudo add-apt-repository ppa:japanese-testers/mozc
+   65  sudo apt update
+   66  sudo apt upgrade
+   67  sudo pactl list
+   68  sudo pactl set-sink-volume alsa_output.pci-0000_00_1b.0.analog-stereo 0
+   69  sudo add-apt-repository -y ppa:libreoffice/ppa
+   70  sudo apt update
+   71  apt list --upgradable
+   72  sudo apt upgrade
+   73  sudo sed -i 's/#DefaultTimeoutStopSec=90s/DefaultTimeoutStopSec=10s/g' /etc/systemd/system.conf
+   74  sudo apt install software-center
+   75  sudo apt remove unity-webapps-common
+   76  sudo sed -i 's/#NTP=/NTP=ntp.nict.jp/g' /etc/systemd/timesyncd.conf
+   77  systemctl -l status systemd-timesyncd
+   78  exit
+   79  sudo apt update
+   80  sudo apt -f install --fix-missing
+   81  sudo application list
+   82  ls
+   83  sudo dpkg -i AdbeRdr9.5.5-1_i386linux_enu.deb 
+   84  ls
+   85  sudo rm AdbeRdr9.5.5-1_i386linux_enu.deb 
+   86  ls
+   87  cd ダウンロード
+   88  ls
+   89  cd ..
+   90  ls
+   91  cd tmp
+   92  ls
+   93  cd mozilla_tsatuos0/
+   94  ls
+   95  sudo apt -r chrome
+   96  sudo apt install synaptic
+   97  sudo apt remove google
+   98  reboot
+   99  ls
+  100  cd ダウンロード/
+  101  ls
+  102  cd ..
+  103  cd tmp
+  104  ls
+  105  cd ダウンロード
+  106  ls
+  107  sudo dpkg -i google-chrome-stable_current_amd64.deb 
+  108  sudo apt remove google-chrome-stable 
+  109  sudo apt install libappindicator1
+  110  ls
+  111  sudo dpkg -i google-chrome-stable_current_amd64.deb 
+  112  ls
+  113  sudo dpkg -i ubuntu-cleaner_1.0.4.2-1+sicklylife~ppa1_all.deb 
+  114  ls
+  115  sudo dpkg -i slack-desktop-2.7.0-amd64.deb 
+  116  sudo apt remove slack 
+  117  sudo apt-add-repository -y ppa:rael-gc/scudcloud
+  118  echo ttf-mscorefonts-installer msttcorefonts/accepted-mscorefonts-eula select true | sudo debconf-set-selections
+  119  sudo apt update
+  120  sudo apt install scudcloud
+  121  slack
+  122  sudo apt update
+  123  sudo aot install git
+  124  sudo apt install git
+  125  git
+  126  sudo apt install atom
+  127  ls
+  128  sudo dpkg -i atom-amd64.deb 
+  129  sudo atom
+  130  sudo apt install libcurl4-gnutls-dev libexpat1-dev gettext \
+  131  sudo apt install git
+  132  sudo systemd-analyze
+  133  sudo systemd-analyze plot > plot.svg
+  134  sudo nano /etc/init.d/rc
+  135  sudo apt install sysv-rc-conf
+  136  sudo sysv-rc-conf
+  137  reboot
+  138  sudo systemd-analyze
+  139  sudo apt install preload
+  140  sudo nano /etc/default/preload
+  141  sudo apt prelink
+  142  sudo apt install prelink
+  143  sudo prelink -avmR
+  144  sudo apt install bleachbit
+  145  sudo bleachbit
+  146  exit
+  147  sudo apt install wireshark
+  148  sudo apt install gimp
+  149  ls -aF
+  150  ls -a
+  151  ls -F
+  152  clear
+  153  git
+  154  git -global
+  155  git config -global
+  156  git config --global
+  157  git --global
+  158  git init
+  159  git -global user.emal "stsouta@gmail.com"
+  160  git --global user.emal "stsouta@gmail.com"
+  161  git config -global user.emal "stsouta@gmail.com"
+  162  git config -global user.email "stsouta@gmail.com"
+  163  git config --global user.email "stsouta@gmail.com"
+  164  git config --global user.name "TSatuos"
+  165  git config -l
+  166  ls
+  167  mkdir foo
+  168  ls
+  169  rmdir foo
+  170  ls
+  171  ls -aF
+  172  rmdir .git*
+  173  rmdir .git
+  174  ls
+  175  cd デスクトップ
+  176  ls
+  177  mkdir foo
+  178  ls
+  179  git init
+  180  ls
+  181  ls -a
+  182  cd foo
+  183  mk text.txt
+  184  ls
+  185  git init
+  186  history >test.txt
