@@ -19,10 +19,6 @@
    19  cd ..
    20  ls
    21  cd tmp
-   22  ls
-   23  cd mozilla_tsatuos0/
-   24  ls
-   25  dpkg -i google-chrome-stable_current_amd64.deb
    26  sudo dpkg -i google-chrome-stable_current_amd64.deb
    27  reboot
    28  sudo dpkg -i google-chrome-stable_current_amd64.deb
